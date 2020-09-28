@@ -104,6 +104,14 @@ footer h3 {
 		order: 2;
 		margin: 0 auto;
 	}
+	aside ul {
+		display: flex;
+
+		flex-direction: column;
+	}
+	aside ul li {
+		margin: 0 auto;
+	}
 	.service-container {
 		flex-direction: column;
 	}
