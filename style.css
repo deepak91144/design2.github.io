@@ -102,7 +102,6 @@ footer h3 {
 	}
 	aside {
 		order: 2;
-		margin: 0 auto;
 	}
 	aside ul {
 		display: flex;
