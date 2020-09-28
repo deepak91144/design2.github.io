@@ -102,6 +102,7 @@ footer h3 {
 	}
 	aside {
 		order: 2;
+		margin-bottom: 0 auto;
 	}
 	.service-container {
 		flex-direction: column;
